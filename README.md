@@ -31,6 +31,7 @@ Install `pytube` and `moviepy` using pip:
 
 ```bash
 pip install pytube moviepy
+```
 
 ## Getting Started
 
@@ -52,7 +53,6 @@ pip install pytube moviepy
     ```bash
     pip install pytube moviepy
     ```
-'''
 
 ## Usage
 
