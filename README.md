@@ -67,21 +67,3 @@ To use the YouTube to MP4 downloader, follow these steps:
     - The script will ask for the YouTube video URL. Paste the URL and press Enter.
 
 The video will be downloaded to a `downloads/` directory at the location of the converter.py file. it will be in the highest resolution available.
-
-## Contributing
-
-Feel free to contribute to the project by submitting pull requests or opening issues for any suggestions or problems you find. To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-## License
-
-This project is released under the [MIT License](LICENSE.md). See the LICENSE file for details.
-
-## Disclaimer
-
-This tool is intended for personal use, educational purposes, or for videos where you have explicit permission to download. Please respect copyright laws and YouTube's terms of service. Unauthorized downloading of copyrighted content is not supported.
